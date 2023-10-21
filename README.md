@@ -1,2 +1,2 @@
 # ExemploPortfolio
-referente ao curso de Front-End da Alura.
+Referente ao curso de Front-End da Alura.
