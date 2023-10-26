@@ -99,7 +99,7 @@ body{
 .apresentacao__links__navegacao{
     display: flex;
     justify-content: center;
-    padding: 1em 1.5em;
+    padding: 1em 2em;
     margin: .7em 0;
     border: 2px solid var(--cor-terciaria);
     width: 50%;
