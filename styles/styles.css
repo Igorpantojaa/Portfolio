@@ -99,18 +99,22 @@ body{
 .apresentacao__links__navegacao{
     display: flex;
     justify-content: center;
-    padding: .8em 1.5em;
-    margin: .5em 0;
+    padding: 1em 1.5em;
+    margin: .7em 0;
     border: 2px solid var(--cor-terciaria);
     width: 50%;
     text-align: center;
     font-size: 1.5rem;
     text-decoration: none;
-    border-radius: 15px;
+    border-radius: 20px;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
     font-weight: 600;
     align-items: center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 .apresentacao__links__navegacao:hover{
@@ -131,7 +135,7 @@ body{
     font-size: 1.5rem;
     background-color:var(--cor-terciaria);
     padding: 20px;
-    margin: 1em 0 0 0;
+    margin: 2em 0 0 0;
 
 }
 
@@ -175,7 +179,7 @@ body{
         margin-bottom: .7em;
     }
     .rodape{
-       text-align: center;
+        text-align: center;
         padding: .7em;
     }
 }
